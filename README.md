@@ -7,7 +7,7 @@ They highlight experimental data handling, analysis, and technical writing.
 - **Lab 1: Heat Engine Cycle**  
   Investigation of a thermodynamic cycle using P–V diagrams.  
   Includes calculation of efficiency, error analysis, and comparison with theory.  
-  File: `lab1_heat_engine_cycle.pdf`
+  File: `06_Heat_Engine_Cycle_Report-2.pdf`
 
 ## Tools & Methods
 - OriginLab (data visualization and plotting)  
